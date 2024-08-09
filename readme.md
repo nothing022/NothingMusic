@@ -1,65 +1,53 @@
-<img src="https://telegra.ph/file/c0e014ff34f34d1056627.png" align="right" width="200" height="200"/>
+<h2 align="center">
+    ──「 🫧ﮩ٨ـﮩﮩ٨ـ 🫧ﮩ٨ـﮩﮩ٨ـ ❞Sʜᴀʜɪɴᴀ ✘ 𝙼𝚞𝚜𝚒𝚌❝ ﮩ٨ـﮩﮩ٨ـ🫧 」──
+</h2>
 
-# Yukki Music Bot <img src="https://img.shields.io/github/v/release/TeamYukki/YukkiMusicBot?color=black&logo=github&logoColor=black&style=social" alt="RELEASE">
+<p align="center">
+  <img src="https://graph.org/file/804fa956a84862b547fc5.jpg">
+</p>
 
-[Yukki Music Bot](https://github.com/TeamYukki/YukkiMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+<p align="center">
+<a href="https://github.com/ShahinaAbhi143/miss_shahina"><img src="https://img.shields.io/github/stars/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
+<a href="https://github.com/ShahinaAbhi143/miss_shahina"> <img src="https://img.shields.io/github/forks/AnonymousX1025/AnonXMusic?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
+<a href="https://github.com/ShahinaAbhi143/miss_shahina"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
+<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
+<a href="https://youtube.com/@imagineiq?si=aDeCmSlwlC7JAOTY"> <img src="https://img.shields.io/github/last-commit/AnonymousX1025/AnonXMusic?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
+</p>
 
-* Youtube, Soundcloud, Apple Music, Spotify, Resso, Live Streams and Telegram Audios & Videos support.
-* Written from scratch, making it stable and less crashes with attractive thumbnails.
-* Loop, Seek, Shuffle, Specific Skip, Playlists etc support
+<p align="center">
+  <img src="https://graph.org/file/dc111a1c1358c553ea604.jpg">
+</p>
 
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
+</h3>
 
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AnonymousX1025/AnonXMusic"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-## 🚀 Heroku Deployment
-
-<h4>Click the button below to deploy Yukki Music Bot on Heroku!</h4>    
-<h4>If You show any error like failed to app Creation Then fork and deploy </h4>
-<a href="https://dashboard.heroku.com/new?template=https://github.com/TheTeamVivek/YukkiMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200""/></a>
-
+<h3 align="center">
+    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
+</h3>
 
 ## 🖇 VPS Deployment
-- Get your [Necessary Variables](https://github.com/TheTeamVivek/YukkiMusic/blob/master/sample.env)
-- clone repo : `git clone https://github.com/TheTeamVivek/YukkiMusic && cd YukkiMusic`
+- Get your [Necessary Variables](https://github.com/ShahinaAbhi143/abhi/blob/master/sample.env)
+- clone repo : `git clone https://github.com/ShahinaAbhi143/abhi && cd abhi`
 - Setup by : `bash setup`
 - Install tmux to keep running your bot when you close the terminal by :
 `sudo apt install tmux && tmux`
 - Finally run the bot by :
 `python3 -m YukkiMusic`
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
-
-
-# Yukki Music Configs
- [Checkout Here For Config Vars](https://github.com/TheTeamVivek/YukkiMusic/blob/master/config/README.md)
-# 🏷 Support / Assistance
-
-Reach out to the maintainer at one of the following places:
-
-- [GitHub Issues](https://github.com/TheTeamVivek/YukkiMusic/issues/new?assignees=&labels=question&template=SUPPORT_QUESTION.md&title=support%3A+)
-- Contact  [Telegram profile](https://t.me/vivekkumar07089)
-- [Telegram Support](https://t.me/TheTeamVk)
-
-If you want to say **thank you** or/and support active development of YukkiMusicBot:
-
-- Add a [GitHub Star](https://github.com/TeamYukki/YukkiMusicBot) to the project.
-- Fork the [Repo](https://github.com/TheTeamVivek/YukkiMusic) :)
-- Write interesting articles about the project on [Dev.to](https://dev.to/), [Medium](https://medium.com/) or your personal blog.
-
-Together, we can make **YukkiMusic** better!
-
-# 📑 Acknowledgement / Credits
+━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
-    ─「 Credits 」─
+    ─「 sᴜᴩᴩᴏʀᴛ 」─
 </h3>
 
 <p align="center">
-<a href="https://github.com/pyrogram/pyrogram"> <img src="https://img.shields.io/badge/Pyrogram-black?style=for-the-badge&logo=github" alt="Pyrogram" /> </a>
-<a href="https://github.com/pytgcalls/pytgcalls"> <img src="https://img.shields.io/badge/PyTgCalls-black?style=for-the-badge&logo=github" alt="Pytgcalls" /> </a>
-<a href="https://github.com/AnonymousX1025"> <img src="https://img.shields.io/badge/Anonymous-black?style=for-the-badge&logo=github" alt="Anonymous" /> </a>
-<a href="https://github.com/NotReallyShikhar"> <img src="https://img.shields.io/badge/Shikhar-black?style=for-the-badge&logo=github" alt="Shikhar" /> </a>
-<a href="https://github.com/TheHamkerCat"> <img src="https://img.shields.io/badge/TheHamkerCat-black?style=for-the-badge&logo=github" alt="TheHamkerCat" /> </a>
-<a href="https://github.com/Pranav-Saraswat"> <img src="https://img.shields.io/badge/PranavSaraswat-black?style=for-the-badge&logo=github" alt="PranavSaraswat" /> </a>
+<a href="https://t.me/studypointtothebestquiz"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _Special Thanks To [Team Yukki](https://github.com/TeamYukki) ғᴏʀ [YukkiMusicBot](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
+<p align="center">
+<a href="https://t.me/study5869"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
 
