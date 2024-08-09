@@ -1,11 +1,3 @@
-#
-# Copyright (C) 2024 by TheTeamVivek@Github, < https://github.com/TheTeamVivek >.
-#
-# This file is part of < https://github.com/TheTeamVivek/YukkiMusic > project,
-# and is released under the MIT License.
-# Please see < https://github.com/TheTeamVivek/YukkiMusic/blob/master/LICENSE >
-#
-# All rights reserved.
 import re
 
 import sys
@@ -55,7 +47,7 @@ EXTRA_PLUGINS = getenv(
 
 EXTRA_PLUGINS_REPO = getenv(
     "EXTRA_PLUGINS_REPO",
-    "https://github.com/TheTeamVivek/Extra-Plugin",
+    "https://github.com/ShahinaAbhi143/abhi/Extra-Plugin",
 )
 # Fill here the external plugins repo where plugins that you want to load
 
@@ -77,7 +69,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "6815918609").split())
+    map(int, getenv("OWNER_ID", "6920064308").split())
 )  # Input type must be interger
 
 
@@ -91,7 +83,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/TheTeamVivek/YukkiMusic",
+    "https://github.com/ShahinaAbhi143/abhi",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -104,11 +96,11 @@ GIT_TOKEN = getenv(
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/TheTeamVivek"
-)  # Example:- https://t.me/TheTeamVivek
+    "SUPPORT_CHANNEL", "https://t.me/study5869"
+) 
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/TheTeamVk"
-)  # Example:- https://t.me/TheTeamVk
+    "SUPPORT_GROUP", "https://t.me/studypointtothebestquiz"
+) 
 
 
 # Set it in True if you want to leave your assistant after a certain amount of time. [Set time via AUTO_LEAVE_ASSISTANT_TIME]
@@ -132,7 +124,7 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/TheTeamVivek/YukkiMusic")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/ShahinaAbhi143/abhi")
 
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
@@ -179,14 +171,6 @@ STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
 
 
-#  __     ___    _ _  ___  _______   __  __ _    _  _____ _____ _____
-#  \ \   / / |  | | |/ / |/ /_   _| |  \/  | |  | |/ ____|_   _/ ____|
-#   \ \_/ /| |  | | ' /| ' /  | |   | \  / | |  | | (___   | || |
-#    \   / | |  | |  < |  <   | |   | |\/| | |  | |\___ \  | || |
-#     | |  | |__| | . \| . \ _| |_  | |  | | |__| |____) |_| || |____
-#     |_|   \____/|_|\_\_|\_\_____| |_|  |_|\____/|_____/|_____\_____|
-
-
 ### DONT TOUCH or EDIT codes after this line
 BANNED_USERS = filters.user()
 YTDOWNLOADER = 1
@@ -206,27 +190,27 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://te.legra.ph/file/4ec5ae4381dffb039b4ef.jpg",
+    "https://graph.org/file/e623da1527f9f52260468.jpg",
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://telegra.ph/file/91533956c91d0fd7c9f20.jpg",
+    "https://graph.org/file/83312f735f032270a4c23.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
     "PLAYLIST_IMG_URL",
-    "https://telegra.ph/file/f4edfbd83ec3150284aae.jpg",
+    "https://graph.org/file/1e0af186d0575a7d6a650.jpg",
 )
 
 GLOBAL_IMG_URL = getenv(
     "GLOBAL_IMG_URL",
-    "https://telegra.ph/file/de1db74efac1770b1e8e9.jpg",
+    "https://graph.org/file/31d5b824178a31109465b.jpg",
 )
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://telegra.ph/file/4dd9e2c231eaf7c290404.jpg",
+    "https://graph.org/file/dc111a1c1358c553ea604.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
@@ -251,7 +235,7 @@ SOUNCLOUD_IMG_URL = getenv(
 
 YOUTUBE_IMG_URL = getenv(
     "YOUTUBE_IMG_URL",
-    "https://telegra.ph/file/76d29aa31c40a7f026d7e.jpg",
+    "https://graph.org/file/6ecdb1c935d455666220b.jpg",
 )
 
 SPOTIFY_ARTIST_IMG_URL = getenv(
