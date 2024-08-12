@@ -69,7 +69,7 @@ LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", ""))
 
 # Your User ID.
 OWNER_ID = list(
-    map(int, getenv("OWNER_ID", "6920064308").split())
+    map(int, getenv("OWNER_ID", "6623380925").split())
 )  # Input type must be interger
 
 
@@ -83,7 +83,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/ShahinaAbhi143/abhi",
+    "https://github.com/nothing022/NothingMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
@@ -96,10 +96,10 @@ GIT_TOKEN = getenv(
 
 # Only  Links formats are  accepted for this Var value.
 SUPPORT_CHANNEL = getenv(
-    "SUPPORT_CHANNEL", "https://t.me/study5869"
+    "SUPPORT_CHANNEL", "https://t.me/nothingbots"
 ) 
 SUPPORT_GROUP = getenv(
-    "SUPPORT_GROUP", "https://t.me/studypointtothebestquiz"
+    "SUPPORT_GROUP", "https://t.me/nothingbots"
 ) 
 
 
@@ -124,7 +124,7 @@ TELEGRAM_DOWNLOAD_EDIT_SLEEP = int(getenv("TELEGRAM_EDIT_SLEEP", "5"))
 
 
 # Your Github Repo.. Will be shown on /start Command
-GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com/ShahinaAbhi143/abhi")
+GITHUB_REPO = getenv("GITHUB_REPO", "https://github.com")
 
 
 # Spotify Client.. Get it from https://developer.spotify.com/dashboard
@@ -190,12 +190,12 @@ autoclean = []
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://graph.org/file/e623da1527f9f52260468.jpg",
+    "https://telegra.ph/file/b8931fc7533f887a402a4.jpg",
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://graph.org/file/83312f735f032270a4c23.jpg",
+    "https://telegra.ph/file/b8931fc7533f887a402a4.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
